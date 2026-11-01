@@ -1,0 +1,6 @@
+{
+  "name": "PLAYZO - Free Online Games Platform",
+  "description": "Play over 24 free online games instantly on PLAYZO. Subway Runner, Car Racing, 2048, Chess, Fruit Ninja, and more with no downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
